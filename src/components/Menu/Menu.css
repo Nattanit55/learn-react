@@ -68,10 +68,6 @@
   transition: all 0.3s;
 }
 
-/* .block-menu-wrapper ul li.active a::before {
-  width: 20px;
-  transition: all 0.3s;
-} */
 .last-menu {
   margin-top: auto;
 }
